@@ -1,5 +1,10 @@
 # entanglement-medicine
 
+Entanglement Medicine: 
+
+     Entanglement Medicine research uses the Ahronov-Bohm Effect, utilizing potential energy, to entangle different objects or spaces. This allows for non-local correlations (entanglement) and at the receiver to take potentials and produce real effects from those potentials. This experiment replicates the ability to copy information from one space in an aqueous solution to another space with a aqueous solution and replicate the structure from the original  The following references are for the 3 research groups that have been studied regarding using angular momentum to entangle remote objects: Kernbach, Persinger and Hu/Wu. The attempt at replicating these quantum effects are based on Persinger (2014) using a simple and low-cost toroidal coil for the Poynting Vector (AB effect) generator.  All three groups have reported using various Poynting Vector generators (Akimov, Lasers, LEDs) to show that there are remote metabolic changes between non-locally entangled objects.  For example, Persinger has shown that there is remote electron and proton interactions, where a remote site receives particles from another site, remotely, non-locally.
+  
+    In the proposed replication test we propose using the toroidal coil used by Persinger et al before testing with Kernbach’s LED and Laser generators.  This allows a low-cost entry into the field to gain knowledge of the methods and techniques of Ahronov-Bohm engineering, with the initial application area in Infoceuticals- the remote distribution of pharmaceuticals, including vaccines directly from a central hub to mesh network recievers for direct administration to patents via aqueous compounds created from the original information of the entangled medicine at the central hub, this could also be customized for personalized medicine. 
 
 
 
@@ -44,6 +49,52 @@ Infoceuticals:
 • Giuliani L, D’Emilia E, Lisi A, et al. The floating water bridge under strong electric potential. Neural Network World 2009;19:393–398.
 
 • Lisi A, Ledda M, De Carlo F, et al. Ion cyclotron resonance (ICR) transfers information to living systems: Effects on human epithelial cell differentiation. Electromagn Biol Med 2008;27:230–240.
+
+Serge Kernbach Direct Experiments
+      
+• Kernbach, S. (2017) Replication experiment on distant influence on biological orgnisms conducted  in 1986 [Akhimov original study] IJUS, E2. 
+
+
+Persinger Group Direct Experiments
+
+• Dotta, B.T. and Persinger, M.A. (2012) “Doubling” of Local Photon Emissions When Two Simultaneous, Spatially- Separated, Chemiluminescent Reactions Share the Same Magnetic Field Configurations. Journal of Biophysical Chemistry, 3, 72. http://dx.doi.org/10.4236/jbpc.2012.31009
+
+• Dotta, B.T., Murugan, N.J., Karbowski, L.M. and Persinger, M.A. (2013) Excessive Correlated Shifts in pH within Distal Solutions Sharing Phase-Uncoupled Angular Accelerating Magnetic Fields: Macro-Entanglement and Information Transfer. International Journal of Physical Sciences, 8, 1783-1787.
+
+• Dotta, B.T., Karbowski, L.M., Murugan, N.J. and Persinger, M.A. (2013) Incremental Shifts in pH Spring Water Can Be Stored as “Space-Memory”: Encoding and Retrieval through the Application of the Same Rotating Magnetic Field. NeuroQuantology, 11. http://dx.doi.org/10.14704/nq.2013.11.4.714
+
+• Rouleau, N., Carniello, T.N. and Persinger, M.A. (2014) Non-Local pH Shifts and Shared Changing Angular Velocity Magnetic Fields: Discrete Energies and the Importance of Point Durations. Journal of Biophysical Chemistry. http://dx.doi.org/10.4236/jbpc.2014.52006
+
+• Rouleau, N. and Persinger, M. (2015) Local Electromagnetic Fields Exhibit Temporally Non-Linear, East-West Oriented 1 - 5 nT Diminishments within a Toroid: Empirical Measurement and Quantitative Solutions Indicating a Potential Mechanism for Excess Correlation. Journal of Electromagnetic Analysis and Applications, 7, 19-30. http://dx.doi.org/10.4236/jemaa.2015.72003
+
+• Scott, M.A., Rouleau, N., Lehman, B.S., Tessaro, L.W.E., Juden-Kelly, L.M. and Persinger, M.A. (2015) Experimental Production of Excess Correlation Across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II). Journal of Consciousness Research & Exploration, 6, 658-707.
+
+Persinger Group Supporting Research:
+
+• Korotaev, S.M., Morozov, A.N., Serdyuk, V.O., Gorohov, J.V. and Machinin, V.A. (2005) Experimental Study of Macroscopic Nonlocality of Large-Scale Natural Dissipative Processes. NeuroQuantology, 3, 275-294.
+
+• Hunter, L., Gordon, J., Peck, S., Ang, D. and Lin, J.F. (2013) Using the Earth as a Polarized Electron Source to Search for Long-Range Spin-Spin Interactions. Science, 339, 928-932. http://dx.doi.org/10.1126/science.1227460
+
+• Persinger, M.A. (2014) Potential Gravitational-Solar Electromagnetic Spectral Radiance Interaction as the Source of the Earth’s Background Free Oscillations. International Letters of Chemistry, Physics, and Astronomy, 21, 11-14.
+
+• Persinger, M.A. and Lavellee, C.F. (2010) Theoretical and Experimental Evidence of Macroscopic Entanglement between Human Brain Activity and Photon Emissions: Implications for Quantum Consciousness and Future Applications. Journal of Consciousness Research & Exploration, 1, 785-807.
+
+• Fickler, R., Lapkiewicz, R., Plick, W.N., Krenn, M., Schaeff, C., Ramelow, S. and Zeilinger, A. (2012) Quantum Entanglement of High Angular Momenta. Science, 338, 640-643. http://dx.doi.org/10.1126/science.1227193
+
+
+
+Hu and Wu Direct Experiment:
+
+• Hu, H. & Wu. M. (2006) Evidence of Non-local Chemical, Thermal and Gravitational Effects . http://cogprints.org/5613, http://arxiv.org/ags/quant-ph/0208068v4, NeruoQuantology, 2006; 4: 2901-306.
+
+
+
+
+
+
+Bandyopadhyay Group (India/Japan)
+
+Gosh. Subrata, Fujita, Daisuke (2014) Live Visualizations of Single Isolated tubulin Protein Self-Assembly via tunneling current: Effect of electromagnetic pumping during spontaneous groth of microtubule 
 
 
 
