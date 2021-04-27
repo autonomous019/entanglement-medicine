@@ -1,14 +1,14 @@
 # entanglement-medicine
 
-Entanglement Medicine: 
+<h1>Entanglement Medicine:</h1> 
 
-     Entanglement Medicine research uses the Ahronov-Bohm Effect, utilizing potential energy, to entangle different objects or spaces. This allows for non-local correlations (entanglement) and at the receiver to take potentials and produce real effects from those potentials. This experiment replicates the ability to copy information from one space in an aqueous solution to another space with a aqueous solution and replicate the structure from the original  The following references are for the 3 research groups that have been studied regarding using angular momentum to entangle remote objects: Kernbach, Persinger and Hu/Wu. The attempt at replicating these quantum effects are based on Persinger (2014) using a simple and low-cost toroidal coil for the Poynting Vector (AB effect) generator.  All three groups have reported using various Poynting Vector generators (Akimov, Lasers, LEDs) to show that there are remote metabolic changes between non-locally entangled objects.  For example, Persinger has shown that there is remote electron and proton interactions, where a remote site receives particles from another site, remotely, non-locally.
+Entanglement Medicine research uses the Ahronov-Bohm Effect, utilizing potential energy, to entangle different objects or spaces. This allows for non-local correlations (entanglement) and at the receiver to take potentials and produce real effects from those potentials. This experiment replicates the ability to copy information from one space in an aqueous solution to another space with a aqueous solution and replicate the structure from the original  The following references are for the 3 research groups that have been studied regarding using angular momentum to entangle remote objects: Kernbach, Persinger and Hu/Wu. The attempt at replicating these quantum effects are based on Persinger (2014) using a simple and low-cost toroidal coil for the Poynting Vector (AB effect) generator.  All three groups have reported using various Poynting Vector generators (Akimov, Lasers, LEDs) to show that there are remote metabolic changes between non-locally entangled objects.  For example, Persinger has shown that there is remote electron and proton interactions, where a remote site receives particles from another site, remotely, non-locally.
   
-    In the proposed replication test we propose using the toroidal coil used by Persinger et al before testing with Kernbach’s LED and Laser generators.  This allows a low-cost entry into the field to gain knowledge of the methods and techniques of Ahronov-Bohm engineering, with the initial application area in Infoceuticals- the remote distribution of pharmaceuticals, including vaccines directly from a central hub to mesh network recievers for direct administration to patents via aqueous compounds created from the original information of the entangled medicine at the central hub, this could also be customized for personalized medicine. 
+In the proposed replication test we propose using the toroidal coil used by Persinger et al before testing with Kernbach’s LED and Laser generators.  This allows a low-cost entry into the field to gain knowledge of the methods and techniques of Ahronov-Bohm engineering, with the initial application area in Infoceuticals- the remote distribution of pharmaceuticals, including vaccines directly from a central hub to mesh network recievers for direct administration to patents via aqueous compounds created from the original information of the entangled medicine at the central hub, this could also be customized for personalized medicine. 
 
 
 
-Infoceuticals:
+<h3>Infoceuticals:</h3>
 
 • B.P. Surinov1, K.G. Hachumova2, E.P. Germanov3, A.A. Fedorenko3, (2017)  Information Pharmacology- Replication of Information Copies of Drug Substances in Aquatic Vehicles IJUS International Journal of Unconventional Science Issue E2, pp. 3-9, 2017 http://www.unconv-science.org/en/e2/surinov/
       
@@ -50,12 +50,12 @@ Infoceuticals:
 
 • Lisi A, Ledda M, De Carlo F, et al. Ion cyclotron resonance (ICR) transfers information to living systems: Effects on human epithelial cell differentiation. Electromagn Biol Med 2008;27:230–240.
 
-Serge Kernbach Direct Experiments
+<b>Serge Kernbach Direct Experiments</b>
       
 • Kernbach, S. (2017) Replication experiment on distant influence on biological orgnisms conducted  in 1986 [Akhimov original study] IJUS, E2. 
 
 
-Persinger Group Direct Experiments
+<b>Persinger Group Direct Experiments</b>
 
 • Dotta, B.T. and Persinger, M.A. (2012) “Doubling” of Local Photon Emissions When Two Simultaneous, Spatially- Separated, Chemiluminescent Reactions Share the Same Magnetic Field Configurations. Journal of Biophysical Chemistry, 3, 72. http://dx.doi.org/10.4236/jbpc.2012.31009
 
@@ -69,7 +69,7 @@ Persinger Group Direct Experiments
 
 • Scott, M.A., Rouleau, N., Lehman, B.S., Tessaro, L.W.E., Juden-Kelly, L.M. and Persinger, M.A. (2015) Experimental Production of Excess Correlation Across the Atlantic Ocean of Right Hemispheric Theta-Gamma Power between Subject Pairs Sharing Circumcerebral Rotating Magnetic Fields (Part II). Journal of Consciousness Research & Exploration, 6, 658-707.
 
-Persinger Group Supporting Research:
+<b>Persinger Group Supporting Research:</b>
 
 • Korotaev, S.M., Morozov, A.N., Serdyuk, V.O., Gorohov, J.V. and Machinin, V.A. (2005) Experimental Study of Macroscopic Nonlocality of Large-Scale Natural Dissipative Processes. NeuroQuantology, 3, 275-294.
 
@@ -83,7 +83,7 @@ Persinger Group Supporting Research:
 
 
 
-Hu and Wu Direct Experiment:
+<b>Hu and Wu Direct Experiment:</b>
 
 • Hu, H. & Wu. M. (2006) Evidence of Non-local Chemical, Thermal and Gravitational Effects . http://cogprints.org/5613, http://arxiv.org/ags/quant-ph/0208068v4, NeruoQuantology, 2006; 4: 2901-306.
 
@@ -91,8 +91,7 @@ Hu and Wu Direct Experiment:
 
 
 
-
-Bandyopadhyay Group (India/Japan)
+<b>Bandyopadhyay Group (India/Japan)</b>
 
 Gosh. Subrata, Fujita, Daisuke (2014) Live Visualizations of Single Isolated tubulin Protein Self-Assembly via tunneling current: Effect of electromagnetic pumping during spontaneous groth of microtubule 
 
