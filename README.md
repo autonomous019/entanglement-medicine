@@ -10,7 +10,7 @@ In the proposed replication test we propose using the toroidal coil used by Pers
 
 <h3>Infoceuticals:</h3>
 
-Infoceuticals is the information copy of medicinal substances non-locally to another object from the original, a copy of it's structural data through quantum entanglement to a target site. An overview is in this translation of a <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/teleportation%20of%20vaccine%20properties.odt?raw=true">Teleportation of Vaccine Properties, by Teleportation properties of vaccines (Телепортация свойств вакцин) </a> by Krasnobryzhev V.G. (Краснобрыжев В.Г.) in 2009 
+Infoceuticals is the information copy of medicinal substances non-locally to another object from the original, a copy of it's structural data through quantum entanglement to a target site. An overview is in this translation of a <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/teleportation%20of%20vaccine%20properties.odt?raw=true">Teleportation Properties of Vaccines (Телепортация свойств вакцин) </a> by Krasnobryzhev V.G. (Краснобрыжев В.Г.) in 2009 
 
 • B.P. Surinov1, K.G. Hachumova2, E.P. Germanov3, A.A. Fedorenko3, (2017)  Information Pharmacology- Replication of Information Copies of Drug Substances in Aquatic Vehicles IJUS International Journal of Unconventional Science Issue E2, pp. 3-9, 2017 http://www.unconv-science.org/en/e2/surinov/
       
