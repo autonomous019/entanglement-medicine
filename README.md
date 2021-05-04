@@ -22,14 +22,80 @@ As you know , in the process of dilution ( potentiation ) in intermediate soluti
 According to the observations of these authors , each subsequent dilution and Shaking, increases the number of active clusters , contained in the volume , thereby increasing , from potency to potency , therapeutic activity drug . The same effect is obtained with non-contact exposure to water. field structure , comprising a medical information . Experiments have shown , that two variants of the same remedy , at different potencies , differ from each other by the intensity , not the frequency of the background radiation . Received the result refutes the " frequency " hypothesis that, as a result, potentiation changes only the natural frequency of radiation of drugs .
 (Etkin, 2009)
 
+6. Изучение процесса переноса на воду лечебных свойств
+медицинских препаратов
+Представление о волновом характере энергоинформационного обмена позволило
+к.т.н. М.М.Гринштейну и к.м.н. М.М.Шрайбману развить новый взгляд на явление
+гомеопатии, подкрепленный серией экспериментов на аппарате для переноса
+лечебных свойств медицинских препаратов типа "Трансфер".
+Как известно, в процессе разведения (потенцирования) в промежуточных растворах
+значительно уменьшается концентрация "вещественной", компоненты препарата,
+которая, при попадании в организм, могла бы принимать участие в различных
+биохимических реакциях. При высоких уровнях разведения вещественная
+компонента препарата практически исчезает и основную роль в лечебном процессе
+играет только полевая, информационная компонента, содержащая информацию о
+лечебных свойствах препарата. Благодаря особым структурно-информационным
+свойствам воды на ней запоминается вся эта информация о лечебных свойствах
+препарата.
+Согласно наблюдениям указанных авторов, каждое последующее разведение и
+встряхивание увеличивает число активных кластеров, содержащихся в объеме,
+увеличивая тем самым, от потенции к потенции, терапевтическую активность
+препарата. Тот же эффект получается при бесконтактном воздействии на воду
+полевой структуры, содержащей лечебную информацию. Эксперименты показали,
+что два варианта одного и того же препарата, при различных потенциях, отличаются
+друг от друга интенсивностью, а не частотой фонового излучения. Полученный
+результат опровергает "частотную" гипотезу, согласно которой в результате
+потенцирования изменяется лишь собственная частота излучения препаратов
+
+
+
 13. Transfer of medicinal properties of drugs to large distance
 
 By . t . n . Mark Greenstein and Ph . m . n . Michael Shraybmanom a system , providing the ability to transmit via wireless and cable communication lines , for example , cellular communication and the Internet , information - wave properties of substances biological objects , including medicinal properties of medicines and medicinal plants , as well as information about the functional state of the body humans and animals . The system , based on the method of bio-resonance therapy ( Voll method ), can be used to create unparalleled in the world emergency telemedicine network .
+
+13. Передача лечебных свойств лекарств на большие
+расстояния
+К.т.н. Марком Гринштейном и к.м.н. Михаилом Шрайбманом создана система,
+обеспечивающая возможность передачи по беспроводным и кабельным линиям связи,
+например, сотовой связи и Интернет, информационно-волновых свойств веществ
+биологических объектов, в том числе лечебных свойств медицинских препаратов и
+лекарственных растений, а также о сведений о функциональном состоянии организма
+человека и животных. Система, основанная на методе биорезонансной терапии
+(методе Фолля), может быть использована для создания не имеющей аналогов в мире
+телемедицинской сети неотложной помощи.
+
+
+
+13. Передача лечебных свойств лекарств на большие
+расстояния
+К.т.н. Марком Гринштейном и к.м.н. Михаилом Шрайбманом создана система,
+обеспечивающая возможность передачи по беспроводным и кабельным линиям связи,
+например, сотовой связи и Интернет, информационно-волновых свойств веществ
+биологических объектов, в том числе лечебных свойств медицинских препаратов и
+лекарственных растений, а также о сведений о функциональном состоянии организма
+человека и животных. Система, основанная на методе биорезонансной терапии
+(методе Фолля), может быть использована для создания не имеющей аналогов в мире
+телемедицинской сети неотложной помощи.
 
 14. Computer light - color brain stimulation
 
 A member of our association, Ph . t . n . Sh . Baskin proposed a method and a set of programs light - linguistic medicine for effective treatment , health prevention and enhancing human creativity . The method is based on known evidence of the amazing healing and prophylactic properties of Jewish holy texts and at the discovery of visual images of Hebrew and Aramite . Unlike existing technical devices for sound and light stimulation of the brain type of light - sound machine "Mind machines" are offered computer program light stimulation of the brain by the original method , developed by by the firm "Wezit". The technique and the program turns the computer into a powerful and flexible brain stimulation and energy massage tool , safer and much cheaper , than the above mentioned technical means . Data published on the website " www.visnsoft.com" .
 (Etkin, 2009)
+
+14. Компьютерная свето-цветовая стимуляции мозга
+Членом нашей ассоциации к.т.н. Ш.Баскиным предложен метод и комплект программ
+свето-лингвистической медицины для эффективного лечения, профилактики здоровья
+и повышения творческого потенциала человека. Метод базируется на известных
+свидетельствах удивительных лечебных и профилактических свойств еврейских
+святых текстов и на открытии визуальных образов Иврита и Арамита. В отличие от
+существующих технических устройств для звуковой и световой стимуляции мозга
+типа свето-звуковой машины "Mind machines" предлагаются компьютерные
+программы световой стимуляции мозга по оригинальной методике, разработанной
+фирмой "Wezit". Методика и программа превращает компьютер в мощный и гибкий
+инструмент для стимуляции и энергетического массажа мозга, более безопасный и
+намного более дешевый, чем упомянутые выше технические средства. Данные
+публикуются на сайте «www.visnsoft.com».
+
 
 
 • B.P. Surinov, K.G. Hachumova, E.P. Germanov, A.A. Fedorenko, (2017)  Information Pharmacology- Replication of Information Copies of Drug Substances in Aquatic Vehicles IJUS International Journal of Unconventional Science Issue E2, pp. 3-9, 2017 http://www.unconv-science.org/en/e2/surinov/
@@ -42,7 +108,8 @@ A member of our association, Ph . t . n . Sh . Baskin proposed a method and a se
       
 • Benveniste, J., Jurgens, P., Hsueh, W., Aissa, J. Transatlantic transfer of digitized antigen signal by telephone link. J. Allergy clin. Immunol., 99(1):705, 1997.
       
-• Etkin., Torsion Research in Israel, in (Russian) Materials of the international scientific conference. Khosta, Sochi, August 25-29, 2009 Conference "Torsion Fields and Information Interactions - 2009" Edited by Zhigalov V.A. pg. 176 http://www.vixri.com/d/Materialy%20konferencii%20-Torsionnye%20polja%20i%20informacionnye%20vzaimodejstvija%20-%202009.pdf Торсионные поля и информационные взаимодействия - 2009 Материалы международной научной конференции Электронная версия Хоста, г. Сочи 25-29 августа 2009
+• Etkin. V. A. (Эткин В.А.), Energy-Information Research in Israel (Энергоинформационные исследования в Израиле)
+, in (Russian) Materials of the international scientific conference. Khosta, Sochi, August 25-29, 2009 Conference "Torsion Fields and Information Interactions - 2009" Edited by Zhigalov V.A. pg. 176 http://www.vixri.com/d/Materialy%20konferencii%20-Torsionnye%20polja%20i%20informacionnye%20vzaimodejstvija%20-%202009.pdf Торсионные поля и информационные взаимодействия - 2009 Материалы международной научной конференции Электронная версия Хоста, г. Сочи 25-29 августа 2009
       
 • Foletti A., Ledda M., D’Emilia E., Grimaldi S., Lisi A. Experimental Finding on the Electromagnetic Transfer of Specific Molecular Signals Mediated Through the Information Aqueous System on Two Human Cellular Models. The Journal of Alternative and Complementary Medicine, 18(3):258–261, 2012.
       
