@@ -12,6 +12,26 @@ In the proposed replication test we propose using the toroidal coil used by Pers
 
 Infoceuticals is the information copy of medicinal substances non-locally to another object from the original, a copy of it's structural data through quantum entanglement to a target site. An overview is in this translation of a <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/teleportation%20of%20vaccine%20properties.odt?raw=true">Teleportation Properties of Vaccines (Телепортация свойств вакцин) </a> by Krasnobryzhev V.G. (Краснобрыжев В.Г.) in 2009, these findings were confirmed in the experiments of Surinov et al (2017), also see the other research articles below validating this research area.  
 
+Further research confirming this scientific transfer of medicinals has been conducted in Israel:
+
+6. Studying the process of transferring medicinal properties to water medical supplies The idea of ​​the wave nature of energy-information exchange allowed to . t . n . M . M . Greenstein and Ph . m . n . M . M . Schreibman to develop a new perspective on the phenomenon homeopathy , supported by a series of experiments on a transfer apparatus
+medicinal properties of medical preparations of the " Transfer " type.
+
+As you know , in the process of dilution ( potentiation ) in intermediate solutions the concentration of the " material " component of the drug is significantly reduced , which , when ingested , could take part in various biochemical reactions . At high dilution levels, the material component of the drug practically disappears and the main role in the treatment process It plays only a field , an information component , which contains information on medicinal properties of the drug . Due to special structural and informational the properties of water, all this information about the medicinal properties is remembered on it drug .
+
+According to the observations of these authors , each subsequent dilution and Shaking, increases the number of active clusters , contained in the volume , thereby increasing , from potency to potency , therapeutic activity drug . The same effect is obtained with non-contact exposure to water. field structure , comprising a medical information . Experiments have shown , that two variants of the same remedy , at different potencies , differ from each other by the intensity , not the frequency of the background radiation . Received the result refutes the " frequency " hypothesis that, as a result, potentiation changes only the natural frequency of radiation of drugs .
+(Etkin, 2009)
+
+13. Transfer of medicinal properties of drugs to large distance
+
+By . t . n . Mark Greenstein and Ph . m . n . Michael Shraybmanom a system , providing the ability to transmit via wireless and cable communication lines , for example , cellular communication and the Internet , information - wave properties of substances biological objects , including medicinal properties of medicines and medicinal plants , as well as information about the functional state of the body humans and animals . The system , based on the method of bio-resonance therapy ( Voll method ), can be used to create unparalleled in the world emergency telemedicine network .
+
+14. Computer light - color brain stimulation
+
+A member of our association, Ph . t . n . Sh . Baskin proposed a method and a set of programs light - linguistic medicine for effective treatment , health prevention and enhancing human creativity . The method is based on known evidence of the amazing healing and prophylactic properties of Jewish holy texts and at the discovery of visual images of Hebrew and Aramite . Unlike existing technical devices for sound and light stimulation of the brain type of light - sound machine "Mind machines" are offered computer program light stimulation of the brain by the original method , developed by by the firm "Wezit". The technique and the program turns the computer into a powerful and flexible brain stimulation and energy massage tool , safer and much cheaper , than the above mentioned technical means . Data published on the website " www.visnsoft.com" .
+(Etkin, 2009)
+
+
 • B.P. Surinov, K.G. Hachumova, E.P. Germanov, A.A. Fedorenko, (2017)  Information Pharmacology- Replication of Information Copies of Drug Substances in Aquatic Vehicles IJUS International Journal of Unconventional Science Issue E2, pp. 3-9, 2017 http://www.unconv-science.org/en/e2/surinov/
       
 • Benveniste, J., A¨issa, J., Jurgens, P., Hsueh, W. Specificity of the digitized molecular signal. FASEB Journal, 12:A412, 1998.
@@ -21,6 +41,8 @@ Infoceuticals is the information copy of medicinal substances non-locally to ano
 • Thomas, Y., Schiff, M., Belkadi, L., Jurgens, P., Kahhak, L., Benveniste, J. Activation of human neutrophils by electronically transmitted phorbolmyristate acetate. Med Hypotheses, 54:33– 39, 2000.
       
 • Benveniste, J., Jurgens, P., Hsueh, W., Aissa, J. Transatlantic transfer of digitized antigen signal by telephone link. J. Allergy clin. Immunol., 99(1):705, 1997.
+      
+• Etkin., Torsion Research in Israel, Sochi Conference in Russian.
       
 • Foletti A., Ledda M., D’Emilia E., Grimaldi S., Lisi A. Experimental Finding on the Electromagnetic Transfer of Specific Molecular Signals Mediated Through the Information Aqueous System on Two Human Cellular Models. The Journal of Alternative and Complementary Medicine, 18(3):258–261, 2012.
       
