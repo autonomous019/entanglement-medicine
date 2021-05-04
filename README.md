@@ -42,7 +42,7 @@ A member of our association, Ph . t . n . Sh . Baskin proposed a method and a se
       
 • Benveniste, J., Jurgens, P., Hsueh, W., Aissa, J. Transatlantic transfer of digitized antigen signal by telephone link. J. Allergy clin. Immunol., 99(1):705, 1997.
       
-• Etkin., Torsion Research in Israel, Sochi Conference in (Russian) Materials of the international scientific conference. Khosta, Sochi, August 25-29, 2009 Conference "Torsion Fields and Information Interactions - 2009" Edited by Zhigalov V.A. http://www.vixri.com/d/Materialy%20konferencii%20-Torsionnye%20polja%20i%20informacionnye%20vzaimodejstvija%20-%202009.pdf Торсионные поля и информационные взаимодействия - 2009 Материалы международной научной конференции Электронная версия Хоста, г. Сочи 25-29 августа 2009
+• Etkin., Torsion Research in Israel, in (Russian) Materials of the international scientific conference. Khosta, Sochi, August 25-29, 2009 Conference "Torsion Fields and Information Interactions - 2009" Edited by Zhigalov V.A. pg. 176 http://www.vixri.com/d/Materialy%20konferencii%20-Torsionnye%20polja%20i%20informacionnye%20vzaimodejstvija%20-%202009.pdf Торсионные поля и информационные взаимодействия - 2009 Материалы международной научной конференции Электронная версия Хоста, г. Сочи 25-29 августа 2009
       
 • Foletti A., Ledda M., D’Emilia E., Grimaldi S., Lisi A. Experimental Finding on the Electromagnetic Transfer of Specific Molecular Signals Mediated Through the Information Aqueous System on Two Human Cellular Models. The Journal of Alternative and Complementary Medicine, 18(3):258–261, 2012.
       
