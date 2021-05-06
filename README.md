@@ -6,6 +6,8 @@ Entanglement Medicine research uses the Ahronov-Bohm Effect, utilizing potential
   
 In the proposed replication test we propose using the toroidal coil used by Persinger et al before testing with Kernbach’s LED and Laser generators.  This allows a low-cost entry into the field to gain knowledge of the methods and techniques of Ahronov-Bohm engineering, with the initial application area in Infoceuticals- the remote distribution of pharmaceuticals, including vaccines directly from a central hub to mesh network recievers for direct administration to patents via aqueous compounds created from the original information of the entangled medicine at the central hub, this could also be customized for personalized medicine. 
 
+Another area that involves Entanglement Medicine is that of Resonant treatments of viruses and other treatments based on the Irene Cosic's Resonant Recognition Model, see Cosic below.
+
 
 
 <h3>Infoceuticals:</h3>
@@ -170,6 +172,22 @@ A member of our association, Ph . t . n . Sh . Baskin proposed a method and a se
 • Hu, H. & Wu. M. (2006) Evidence of Non-local Chemical, Thermal and Gravitational Effects . http://cogprints.org/5613, http://arxiv.org/ags/quant-ph/0208068v4, NeruoQuantology, 2006; 4: 2901-306.
 
 
+<b>Cosic Resonance Research:</b>
+
+Almansour (2012) Influence of De Novo Designed Peptides on Cancer Development: A Novel Approach to Skin Cancer Therapy
+<a href="https://ap-st01.ext.exlibrisgroup.com/61RMIT_INST/storage/alma/04/5E/8A/5F/9D/AF/21/22/4F/6B/B7/A0/DE/06/2A/1A/Almansour.pdf?Expires=1620346790&Signature=KT90bVEFd9rQfxPkbb1qGfS2xmY52Rrgx787ZJVqOtzAouK7gC1Vn66ITPuG3ngEYchxvOcoCBziIwv~poowysaZY3~htn2h-TfDKaKB0xwXyJ6Xhb~3sQVQjo2ON8ANVF0lFeq3ak7D8mC6RuZ3yNGh6R2DY51eow1rqOOOQ434cjNd~sODmq5axSxHqT5lODCYDetBS-lwZchMYyt3s5ElFhoYv0oDqDzoLWXIuxMtzyoJb7v4PvpaCdkjPxonxVZnCMNT3X-FEJkMwGXgn5r4ZqLjfQ3JknaKXHS45ckF3WsseA1jhKyHaHN9OXr2Q5L9bL~BvRMLhpwPkxFO9A__&Key-Pair-Id=APKAJ72OZCZ36VGVASIA">Link to paper</a>
+
+Caceres, J., Wright, G. (2017) Zika Virus Viewed Through the Resonant Recognition Model. Unraveling New Avenues for Understanding and Managing a Serious Threat
+https://www.ejbi.org/scholarly-articles/zika-virus-viewed-through-the-resonant-recognition-model-unraveling-new-avenues-for-understanding-and-managing-a-serious.pdf
+
+Cosic, I. (1994) Macromolecular bioactivity: is it resonant interaction between macromolecules?--Theory and applications IEEE Trans Biomed Eng
+. 1994 Dec;41(12):1101-14. doi: 10.1109/10.335859. https://pubmed.ncbi.nlm.nih.gov/7851912/
+
+Murugan, N., Karbowski, L., Persinger, M (2015)(2015) Cosic’s Resonance Recognition Model
+for Protein Sequences and Photon Emission Differentiates Lethal and Non-Lethal Ebola Strains: Implications for Treatment.
+Open Journal of Biophysics, 5, 35-43. http://dx.doi.org/10.4236/ojbiphy.2015.51003 Open Journal of Biophysics, 2015, 5, 35-43
+Published Online January 2015 in SciRes. http://www.scirp.org/journal/ojbiphy
+http://dx.doi.org/10.4236/ojbiphy.2015.51003
 
 
 
