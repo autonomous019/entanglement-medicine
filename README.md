@@ -92,7 +92,10 @@ A member of our association, Ph . t . n . Sh . Baskin proposed a method and a se
 
 
 • B.P. Surinov, K.G. Hachumova, E.P. Germanov, A.A. Fedorenko, (2017)  Information Pharmacology- Replication of Information Copies of Drug Substances in Aquatic Vehicles IJUS International Journal of Unconventional Science Issue E2, pp. 3-9, 2017 http://www.unconv-science.org/en/e2/surinov/
-      
+
+• Surinov, B., Khachumova, K., Germanov, E., Fedorenko (2018) (Б.П. Суринов, Е.П. Германов) Information pharmacology - playback in aquatic environments of information
+copies of medicinal substances Инфоцевтики лекарства-невидимки in Журнал Формирующихся Направлений Науки номер 21-22(6), стр. 107-111, 2018 c Авторы, 2018 статья получена: 06.12.2018 статья принята к публикации: 08.12.2018 http://www.unconv-science.org/n21/surinov/  http://www.unconv-science.org/pdf/21/surinov.pdf
+
 • Benveniste, J., A¨issa, J., Jurgens, P., Hsueh, W. Specificity of the digitized molecular signal. FASEB Journal, 12:A412, 1998.
       
 • Benveniste et al. Method, system and device for producing signals from a substance biological and/or chemical activity. United States Patent # US 6, 541, 978 B1, 2003.
