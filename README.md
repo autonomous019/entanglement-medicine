@@ -12,7 +12,7 @@ Another area that involves Entanglement Medicine is that of Resonant treatments 
 
 <h3>Infoceuticals:</h3>
 
-Infoceuticals is the information copy of medicinal substances non-locally to another object from the original, a copy of it's structural data through quantum entanglement to a target site. An overview is in this translation of a <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/teleportation%20of%20vaccine%20properties.odt?raw=true">Teleportation Properties of Vaccines (Телепортация свойств вакцин) </a> by Krasnobryzhev V.G. (Краснобрыжев В.Г.) in 2009, these findings were confirmed in the experiments of Surinov et al (2017), also see the other research articles below validating this research area.  
+Infoceuticals is the information copy of medicinal substances non-locally to another object from the original, a copy of it's structural data through quantum entanglement to a target site. An overview is in this translation of a <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/teleportation%20of%20vaccine%20properties.odt?raw=true">Teleportation Properties of Vaccines (Телепортация свойств вакцин) </a> by Krasnobryzhev V.G. (Краснобрыжев В.Г.) in 2009, these findings were confirmed in the experiments of Surinov et al (2017), also see the other research articles below validating this research area.  Surinov (2018) provides an overview of the history of infoceutical development. 
 
 Further research confirming this scientific transfer of medicinals has been conducted in Israel:
 
