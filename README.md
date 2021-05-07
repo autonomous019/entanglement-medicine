@@ -124,9 +124,9 @@ copies of medicinal substances Инфоцевтики лекарства-нев�
       
 • Montagnier L., Lavallee C., Aissa J. Patent US 0,024,701 A1. General procedure for the identification of DNA sequences generating electromagnetic signals in biological fluids and tissues, 2012.
       
-• B.P. Surinov, K.G. Hachumova, E.P. Germanov. Modification of biological activity of water on the basis of energy-information technologies: experiments with immunomodulating agents. International Research Journal, 4(11(3)):77–79, 2013.
+• Surinov, B., Hachumova, K.,  Germanov, E., Fedorenko, A. Modification of biological activity of water on the basis of energy-information technologies: experiments with immunomodulating agents. International Research Journal, 4(11(3)):77–79, 2013.
       
-• K.G. Hachumova, B.P. Surinov, V.L. Voeikov, E.P. Germanov, A.A. Fedorenko. Technologies that make a challenge to modern thinking: transferring the properties of medications through communication lines. IJUS (Rus), 2(5):108–117, 2014.
+• Surinov, B., Hachumova, K.,  Germanov, E., Fedorenko, A. Technologies that make a challenge to modern thinking: transferring the properties of medications through communication lines. IJUS (Rus), 2(5):108–117, 2014.
 
 • Del Giudice E, Preparata G, Vitiello G. Water as a free electric dipole laser. Phys Rev Lett 1988;61:1085–1088.
 
