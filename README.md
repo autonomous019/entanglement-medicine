@@ -103,7 +103,7 @@ A member of our association, Ph . t . n . Sh . Baskin proposed a method and a se
       
 
 • Dzhumaeva, N.,  Khusainov, I. (2018)  The use of torsion fields in the therapy of certain viral human diseases
-/ International Journal of Unconventional Science | Journal of Emerging Directions of Science \ Issue No. 19-20 \ Джумаева, H., Хусаинов, И. (2018)  Использование полей кручения в терапии некоторых вирусных заболеваний человека http://www.unconv-science.org/n19/djumaeva/
+/ International Journal of Unconventional Science | Journal of Emerging Directions of Science \ Issue No. 19-20 \ Джумаева, H., Хусаинов, И. (2018)  Использование полей кручения в терапии некоторых вирусных заболеваний человека http://www.unconv-science.org/n19/djumaeva/ {english machine translation: https://github.com/autonomous019/entanglement-medicine/blob/main/dahumaeva%20torsion%20viral%20treatments.pdf ]
       
 • Etkin. V. A. (Эткин В.А.), Energy-Information Research in Israel (Энергоинформационные исследования в Израиле)
 , in (Russian) Materials of the international scientific conference. Khosta, Sochi, August 25-29, 2009 Conference "Torsion Fields and Information Interactions - 2009" Edited by Zhigalov V.A. pg. 176 http://www.vixri.com/d/Materialy%20konferencii%20-Torsionnye%20polja%20i%20informacionnye%20vzaimodejstvija%20-%202009.pdf Торсионные поля и информационные взаимодействия - 2009 Материалы международной научной конференции Электронная версия Хоста, г. Сочи 25-29 августа 2009
