@@ -17,7 +17,7 @@ hours. The Teleport system itself includes a block translations of spin spatial 
 It is located on the body of the object [9]. It has also been studied the effect of efficacy of the Teleport system on the efficiency of coherent
 water in its ability to inhibit reproduction of HIV, vesicular stomatitis viruses and herpes. Water treated under the influence of Teleport,
 acquires new properties, and further reception the treated liquid leads to that the water in the body of the object also goes into coherent state [10]. 
-The work of a group of scientists of the International Institute mulberries of Space Anthropoecology (Novosibirsk) (MNIIKA) under the leadership of the academician 
+The work of a group of scientists of the International Institute of Space Anthropoecology (Novosibirsk) (MNIIKA) under the leadership of the academician 
 of the AMS Ros- Russian Federation V.P. Kaznacheev was also it was shown that the laser-light-guide emitters, emitting "etheric streams" are able to change the growth
 cell cultures in the direction depending on the what field these cell cultures fall into ( right clockwise- or left-handed counterclockwise) [11]. In the specified
 the work describes the results of experiments on distance in some cases, to the complete elimination of viral infection in the patient's body. In patients with viral pathology
