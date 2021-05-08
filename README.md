@@ -8,6 +8,14 @@ In the proposed replication test we propose using the toroidal coil used by Pers
 
 Another area that involves Entanglement Medicine is that of Resonant treatments of viruses and other treatments based on the Irene Cosic's Resonant Recognition Model, see Cosic below.
 
+
+
+
+<h3>Infoceuticals:</h3>
+
+Infoceuticals is the information copy of medicinal substances non-locally to another object from the original, a copy of it's structural data through quantum entanglement to a target site. An overview is in this translation of a <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/teleportation%20of%20vaccine%20properties.odt?raw=true">Teleportation Properties of Vaccines (Телепортация свойств вакцин) </a> by Krasnobryzhev V.G. (Краснобрыжев В.Г.) in 2009, these findings were confirmed in the experiments of Surinov et al (2017), also see the other research articles below validating this research area.  <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/surinov%20infoceuticalhistory.pdf">Surinov (2018)</a> provides an overview of the history of infoceutical development. 
+
+
 The work of <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/dshumeava%20-%20The%20use%20of%20torsion%20fields%20in%20the%20treatment%20of%20certain%20viral%20diseases.pdf">N. Dzhumaeva and I. Khusainov</a> (Н. Джумаева, И. Хусаинов) originally dating back to 2004 is a prime example of using the Ahronov-Bohm Effect and Casimir Effect to transmit vaccines using entanglement: 
 <ul>
 Experiments on teleportation of properties described vaccines in the Teleport system, with the help of which
@@ -40,9 +48,7 @@ V. Заключение Полученные результаты свидете
 This research indicates that it is possible to send vaccines remotely using Entanglement.  This research differs from that of Montaigner and Benveniste in that it uses non-local means whereas the previous researchers use direct contact e-m coils. Whereas, the Persinger et al experiment that uses non-local coils which would replace the device used by (Dzhumaeva, 2018).
 
 
-<h3>Infoceuticals:</h3>
 
-Infoceuticals is the information copy of medicinal substances non-locally to another object from the original, a copy of it's structural data through quantum entanglement to a target site. An overview is in this translation of a <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/teleportation%20of%20vaccine%20properties.odt?raw=true">Teleportation Properties of Vaccines (Телепортация свойств вакцин) </a> by Krasnobryzhev V.G. (Краснобрыжев В.Г.) in 2009, these findings were confirmed in the experiments of Surinov et al (2017), also see the other research articles below validating this research area.  <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/surinov%20infoceuticalhistory.pdf">Surinov (2018)</a> provides an overview of the history of infoceutical development. 
 
 Further research confirming this scientific transfer of medicinals has been conducted in Israel as recounted by one researcher focused on medicinal applications for Entanglement, V. Etkin:
 <ul>
