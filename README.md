@@ -12,7 +12,7 @@ Another area that involves Entanglement Medicine is that of Resonant treatments 
 
 <h3>Infoceuticals:</h3>
 
-Infoceuticals is the information copy of medicinal substances non-locally to another object from the original, a copy of it's structural data through quantum entanglement to a target site. An overview is in this translation of a <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/teleportation%20of%20vaccine%20properties.odt?raw=true">Teleportation Properties of Vaccines (Телепортация свойств вакцин) </a> by Krasnobryzhev V.G. (Краснобрыжев В.Г.) in 2009, these findings were confirmed in the experiments of Surinov et al (2017), also see the other research articles below validating this research area.  Surinov (2018) provides an overview of the history of infoceutical development. 
+Infoceuticals is the information copy of medicinal substances non-locally to another object from the original, a copy of it's structural data through quantum entanglement to a target site. An overview is in this translation of a <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/teleportation%20of%20vaccine%20properties.odt?raw=true">Teleportation Properties of Vaccines (Телепортация свойств вакцин) </a> by Krasnobryzhev V.G. (Краснобрыжев В.Г.) in 2009, these findings were confirmed in the experiments of Surinov et al (2017), also see the other research articles below validating this research area.  <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/surinov%20infoceuticalhistory.pdf">Surinov (2018)</a> provides an overview of the history of infoceutical development. 
 
 Further research confirming this scientific transfer of medicinals has been conducted in Israel:
 
@@ -91,11 +91,6 @@ A member of our association, Ph . t . n . Sh . Baskin proposed a method and a se
 
 Infoceutical Citations:
 
-• Surinov, B., Hachumova, K.,  Germanov, E., Fedorenko, A. (2017)  Information Pharmacology- Replication of Information Copies of Drug Substances in Aquatic Vehicles IJUS International Journal of Unconventional Science Issue E2, pp. 3-9, 2017 http://www.unconv-science.org/en/e2/surinov/
-
-• Surinov, B., Khachumova, K., Germanov, E., Fedorenko (2018) (Б.П. Суринов, Е.П. Германов) Information pharmacology - playback in aquatic environments of information
-copies of medicinal substances Инфоцевтики лекарства-невидимки in Журнал Формирующихся Направлений Науки номер 21-22(6), стр. 107-111, 2018 c Авторы, 2018 статья получена: 06.12.2018 статья принята к публикации: 08.12.2018  http://www.unconv-science.org/n21/surinov/ 
-[english machine translation: https://github.com/autonomous019/entanglement-medicine/blob/main/surinov%20-%20Infoceuticals%20-%20invisible%20medicines.pdf ]
 
 • Benveniste, J., A¨issa, J., Jurgens, P., Hsueh, W. Specificity of the digitized molecular signal. FASEB Journal, 12:A412, 1998.
       
@@ -127,6 +122,13 @@ copies of medicinal substances Инфоцевтики лекарства-нев�
 • Surinov, B., Hachumova, K.,  Germanov, E., Fedorenko, A. Modification of biological activity of water on the basis of energy-information technologies: experiments with immunomodulating agents. International Research Journal, 4(11(3)):77–79, 2013.
       
 • Surinov, B., Hachumova, K.,  Germanov, E., Fedorenko, A. Technologies that make a challenge to modern thinking: transferring the properties of medications through communication lines. IJUS (Rus), 2(5):108–117, 2014.
+
+• Surinov, B., Hachumova, K.,  Germanov, E., Fedorenko, A. (2017)  Information Pharmacology- Replication of Information Copies of Drug Substances in Aquatic Vehicles IJUS International Journal of Unconventional Science Issue E2, pp. 3-9, 2017 http://www.unconv-science.org/en/e2/surinov/
+
+• Surinov, B., Khachumova, K., Germanov, E., Fedorenko (2018) (Б.П. Суринов, Е.П. Германов) Information pharmacology - playback in aquatic environments of information
+copies of medicinal substances Инфоцевтики лекарства-невидимки in Журнал Формирующихся Направлений Науки номер 21-22(6), стр. 107-111, 2018 c Авторы, 2018 статья получена: 06.12.2018 статья принята к публикации: 08.12.2018  http://www.unconv-science.org/n21/surinov/ 
+[english machine translation: https://github.com/autonomous019/entanglement-medicine/blob/main/surinov%20infoceuticalhistory.pdf]
+
 
 • Del Giudice E, Preparata G, Vitiello G. Water as a free electric dipole laser. Phys Rev Lett 1988;61:1085–1088.
 
