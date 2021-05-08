@@ -102,13 +102,14 @@ By . t . n . Mark Greenstein and Ph . m . n . Michael Shraybmanom a system , pro
 
 </ul>
 
-телемедицинской сети неотложной помощи.
+<ul>
 
 14. Computer light - color brain stimulation
 
 A member of our association, Ph . t . n . Sh . Baskin proposed a method and a set of programs light - linguistic medicine for effective treatment , health prevention and enhancing human creativity . The method is based on known evidence of the amazing healing and prophylactic properties of Jewish holy texts and at the discovery of visual images of Hebrew and Aramite . Unlike existing technical devices for sound and light stimulation of the brain type of light - sound machine "Mind machines" are offered computer program light stimulation of the brain by the original method , developed by by the firm "Wezit". The technique and the program turns the computer into a powerful and flexible brain stimulation and energy massage tool , safer and much cheaper , than the above mentioned technical means . Data published on the website " www.visnsoft.com" .
 (Etkin, 2009)
-
+</ul>
+<ul>
 14. Компьютерная свето-цветовая стимуляции мозга
 Членом нашей ассоциации к.т.н. Ш.Баскиным предложен метод и комплект программ
 свето-лингвистической медицины для эффективного лечения, профилактики здоровья
@@ -122,6 +123,8 @@ A member of our association, Ph . t . n . Sh . Baskin proposed a method and a se
 инструмент для стимуляции и энергетического массажа мозга, более безопасный и
 намного более дешевый, чем упомянутые выше технические средства. Данные
 публикуются на сайте «www.visnsoft.com».
+
+</ul>
 
 <h3>Infoceutical Citations:</h3>
 
