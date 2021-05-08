@@ -52,47 +52,9 @@ This research indicates that it is possible to send vaccines remotely using Enta
 
 Further research confirming this scientific transfer of medicinals has been conducted in Israel as recounted by one researcher focused on medicinal applications for Entanglement, V. Etkin:
 <ul>
-6. Studying the process of transferring medicinal properties to water medical supplies The idea of ​​the wave nature of energy-information exchange allowed to . t . n . M . M . Greenstein and Ph . m . n . M . M . Schreibman to develop a new perspective on the phenomenon homeopathy , supported by a series of experiments on a transfer apparatus
-medicinal properties of medical preparations of the " Transfer " type.
-
-As you know , in the process of dilution ( potentiation ) in intermediate solutions the concentration of the " material " component of the drug is significantly reduced , which , when ingested , could take part in various biochemical reactions . At high dilution levels, the material component of the drug practically disappears and the main role in the treatment process It plays only a field , an information component , which contains information on medicinal properties of the drug . Due to special structural and informational the properties of water, all this information about the medicinal properties is remembered on it drug .
-</ul>
-<ul>
-According to the observations of these authors , each subsequent dilution and Shaking, increases the number of active clusters , contained in the volume , thereby increasing , from potency to potency , therapeutic activity drug . The same effect is obtained with non-contact exposure to water. field structure , comprising a medical information . Experiments have shown , that two variants of the same remedy , at different potencies , differ from each other by the intensity , not the frequency of the background radiation . Received the result refutes the " frequency " hypothesis that, as a result, potentiation changes only the natural frequency of radiation of drugs .
-(Etkin, 2009)
-</ul>
-<ul>
-6. Изучение процесса переноса на воду лечебных свойств
-медицинских препаратов
-Представление о волновом характере энергоинформационного обмена позволило
-к.т.н. М.М.Гринштейну и к.м.н. М.М.Шрайбману развить новый взгляд на явление
-гомеопатии, подкрепленный серией экспериментов на аппарате для переноса
-лечебных свойств медицинских препаратов типа "Трансфер".
-Как известно, в процессе разведения (потенцирования) в промежуточных растворах
-значительно уменьшается концентрация "вещественной", компоненты препарата,
-которая, при попадании в организм, могла бы принимать участие в различных
-биохимических реакциях. При высоких уровнях разведения вещественная
-компонента препарата практически исчезает и основную роль в лечебном процессе
-играет только полевая, информационная компонента, содержащая информацию о
-лечебных свойствах препарата. Благодаря особым структурно-информационным
-свойствам воды на ней запоминается вся эта информация о лечебных свойствах
-препарата.
-Согласно наблюдениям указанных авторов, каждое последующее разведение и
-встряхивание увеличивает число активных кластеров, содержащихся в объеме,
-увеличивая тем самым, от потенции к потенции, терапевтическую активность
-препарата. Тот же эффект получается при бесконтактном воздействии на воду
-полевой структуры, содержащей лечебную информацию. Эксперименты показали,
-что два варианта одного и того же препарата, при различных потенциях, отличаются
-друг от друга интенсивностью, а не частотой фонового излучения. Полученный
-результат опровергает "частотную" гипотезу, согласно которой в результате
-потенцирования изменяется лишь собственная частота излучения препаратов
-</ul>
-
-<ul>
 13. Transfer of medicinal properties of drugs to large distance
 
-By . t . n . Mark Greenstein and Ph . m . n . Michael Shraybmanom a system , providing the ability to transmit via wireless and cable communication lines , for example , cellular communication and the Internet , information - wave properties of substances biological objects , including medicinal properties of medicines and medicinal plants , as well as information about the functional state of the body humans and animals . The system , based on the method of bio-resonance therapy ( Voll method ), can be used to create unparalleled in the world emergency telemedicine network .
-
+By Mark Greenstein and Michael Schriebman a system , providing the ability to transmit via wireless and cable communication lines , for example , cellular communication and the Internet , information - wave properties of substances biological objects , including medicinal properties of medicines and medicinal plants , as well as information about the functional state of the body humans and animals . The system , based on the method of bio-resonance therapy ( Voll method ), can be used to create unparalleled in the world emergency telemedicine network .
 </ul>
 <ul>
 13. Передача лечебных свойств лекарств на большие
@@ -105,30 +67,6 @@ By . t . n . Mark Greenstein and Ph . m . n . Michael Shraybmanom a system , pro
 человека и животных. Система, основанная на методе биорезонансной терапии
 (методе Фолля), может быть использована для создания не имеющей аналогов в мире
 телемедицинской сети неотложной помощи.
-
-</ul>
-
-<ul>
-
-14. Computer light - color brain stimulation
-
-A member of our association, Ph . t . n . Sh . Baskin proposed a method and a set of programs light - linguistic medicine for effective treatment , health prevention and enhancing human creativity . The method is based on known evidence of the amazing healing and prophylactic properties of Jewish holy texts and at the discovery of visual images of Hebrew and Aramite . Unlike existing technical devices for sound and light stimulation of the brain type of light - sound machine "Mind machines" are offered computer program light stimulation of the brain by the original method , developed by by the firm "Wezit". The technique and the program turns the computer into a powerful and flexible brain stimulation and energy massage tool , safer and much cheaper , than the above mentioned technical means . Data published on the website " www.visnsoft.com" .
-(Etkin, 2009)
-</ul>
-<ul>
-14. Компьютерная свето-цветовая стимуляции мозга
-Членом нашей ассоциации к.т.н. Ш.Баскиным предложен метод и комплект программ
-свето-лингвистической медицины для эффективного лечения, профилактики здоровья
-и повышения творческого потенциала человека. Метод базируется на известных
-свидетельствах удивительных лечебных и профилактических свойств еврейских
-святых текстов и на открытии визуальных образов Иврита и Арамита. В отличие от
-существующих технических устройств для звуковой и световой стимуляции мозга
-типа свето-звуковой машины "Mind machines" предлагаются компьютерные
-программы световой стимуляции мозга по оригинальной методике, разработанной
-фирмой "Wezit". Методика и программа превращает компьютер в мощный и гибкий
-инструмент для стимуляции и энергетического массажа мозга, более безопасный и
-намного более дешевый, чем упомянутые выше технические средства. Данные
-публикуются на сайте «www.visnsoft.com».
 
 </ul>
 
