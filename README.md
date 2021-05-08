@@ -55,6 +55,7 @@ As you know , in the process of dilution ( potentiation ) in intermediate soluti
 According to the observations of these authors , each subsequent dilution and Shaking, increases the number of active clusters , contained in the volume , thereby increasing , from potency to potency , therapeutic activity drug . The same effect is obtained with non-contact exposure to water. field structure , comprising a medical information . Experiments have shown , that two variants of the same remedy , at different potencies , differ from each other by the intensity , not the frequency of the background radiation . Received the result refutes the " frequency " hypothesis that, as a result, potentiation changes only the natural frequency of radiation of drugs .
 (Etkin, 2009)
 </ul>
+<ul>
 6. Изучение процесса переноса на воду лечебных свойств
 медицинских препаратов
 Представление о волновом характере энергоинформационного обмена позволило
@@ -79,13 +80,15 @@ According to the observations of these authors , each subsequent dilution and Sh
 друг от друга интенсивностью, а не частотой фонового излучения. Полученный
 результат опровергает "частотную" гипотезу, согласно которой в результате
 потенцирования изменяется лишь собственная частота излучения препаратов
+</ul>
 
-
-
+<ul>
 13. Transfer of medicinal properties of drugs to large distance
 
 By . t . n . Mark Greenstein and Ph . m . n . Michael Shraybmanom a system , providing the ability to transmit via wireless and cable communication lines , for example , cellular communication and the Internet , information - wave properties of substances biological objects , including medicinal properties of medicines and medicinal plants , as well as information about the functional state of the body humans and animals . The system , based on the method of bio-resonance therapy ( Voll method ), can be used to create unparalleled in the world emergency telemedicine network .
 
+</ul>
+<ul>
 13. Передача лечебных свойств лекарств на большие
 расстояния
 К.т.н. Марком Гринштейном и к.м.н. Михаилом Шрайбманом создана система,
@@ -97,7 +100,7 @@ By . t . n . Mark Greenstein and Ph . m . n . Michael Shraybmanom a system , pro
 (методе Фолля), может быть использована для создания не имеющей аналогов в мире
 телемедицинской сети неотложной помощи.
 
-
+</ul>
 
 телемедицинской сети неотложной помощи.
 
