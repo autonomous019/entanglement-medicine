@@ -44,16 +44,17 @@ This research indicates that it is possible to send vaccines remotely using Enta
 
 Infoceuticals is the information copy of medicinal substances non-locally to another object from the original, a copy of it's structural data through quantum entanglement to a target site. An overview is in this translation of a <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/teleportation%20of%20vaccine%20properties.odt?raw=true">Teleportation Properties of Vaccines (Телепортация свойств вакцин) </a> by Krasnobryzhev V.G. (Краснобрыжев В.Г.) in 2009, these findings were confirmed in the experiments of Surinov et al (2017), also see the other research articles below validating this research area.  <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/surinov%20infoceuticalhistory.pdf">Surinov (2018)</a> provides an overview of the history of infoceutical development. 
 
-Further research confirming this scientific transfer of medicinals has been conducted in Israel:
-
+Further research confirming this scientific transfer of medicinals has been conducted in Israel as recounted by one researcher focused on medicinal applications for Entanglement, V. Etkin:
+<ul>
 6. Studying the process of transferring medicinal properties to water medical supplies The idea of ​​the wave nature of energy-information exchange allowed to . t . n . M . M . Greenstein and Ph . m . n . M . M . Schreibman to develop a new perspective on the phenomenon homeopathy , supported by a series of experiments on a transfer apparatus
 medicinal properties of medical preparations of the " Transfer " type.
 
 As you know , in the process of dilution ( potentiation ) in intermediate solutions the concentration of the " material " component of the drug is significantly reduced , which , when ingested , could take part in various biochemical reactions . At high dilution levels, the material component of the drug practically disappears and the main role in the treatment process It plays only a field , an information component , which contains information on medicinal properties of the drug . Due to special structural and informational the properties of water, all this information about the medicinal properties is remembered on it drug .
-
+</ul>
+<ul>
 According to the observations of these authors , each subsequent dilution and Shaking, increases the number of active clusters , contained in the volume , thereby increasing , from potency to potency , therapeutic activity drug . The same effect is obtained with non-contact exposure to water. field structure , comprising a medical information . Experiments have shown , that two variants of the same remedy , at different potencies , differ from each other by the intensity , not the frequency of the background radiation . Received the result refutes the " frequency " hypothesis that, as a result, potentiation changes only the natural frequency of radiation of drugs .
 (Etkin, 2009)
-
+</ul>
 6. Изучение процесса переноса на воду лечебных свойств
 медицинских препаратов
 Представление о волновом характере энергоинформационного обмена позволило
@@ -143,7 +144,7 @@ A member of our association, Ph . t . n . Sh . Baskin proposed a method and a se
 • Dzhumaeva, N.,  Khusainov, I. (2018)  The use of torsion fields in the therapy of certain viral human diseases
 / International Journal of Unconventional Science | Journal of Emerging Directions of Science \ Issue No. 19-20 \ Джумаева, H., Хусаинов, И. (2018)  Использование полей кручения в терапии некоторых вирусных заболеваний человека http://www.unconv-science.org/n19/djumaeva/ {english machine translation: https://github.com/autonomous019/entanglement-medicine/blob/main/dshumeava%20-%20The%20use%20of%20torsion%20fields%20in%20the%20treatment%20of%20certain%20viral%20diseases.pdf ]
       
-• Etkin. V. A. (Эткин В.А.), Energy-Information Research in Israel (Энергоинформационные исследования в Израиле)
+• Etkin. V. A. (Эткин В.А.), (2009) Energy-Information Research in Israel (Энергоинформационные исследования в Израиле)
 , in (Russian) Materials of the international scientific conference. Khosta, Sochi, August 25-29, 2009 Conference "Torsion Fields and Information Interactions - 2009" Edited by Zhigalov V.A. pg. 176 http://www.vixri.com/d/Materialy%20konferencii%20-Torsionnye%20polja%20i%20informacionnye%20vzaimodejstvija%20-%202009.pdf Торсионные поля и информационные взаимодействия - 2009 Материалы международной научной конференции Электронная версия Хоста, г. Сочи 25-29 августа 2009
       
 • Foletti A., Ledda M., D’Emilia E., Grimaldi S., Lisi A. Experimental Finding on the Electromagnetic Transfer of Specific Molecular Signals Mediated Through the Information Aqueous System on Two Human Cellular Models. The Journal of Alternative and Complementary Medicine, 18(3):258–261, 2012.
