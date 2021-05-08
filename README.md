@@ -6,7 +6,7 @@ Entanglement Medicine research uses the Ahronov-Bohm Effect, utilizing potential
   
 In the proposed replication test we propose using the toroidal coil used by Persinger et al before testing with Kernbach’s LED and Laser generators.  This allows a low-cost entry into the field to gain knowledge of the methods and techniques of Ahronov-Bohm engineering, with the initial application area in Infoceuticals- the remote distribution of pharmaceuticals, including vaccines directly from a central hub to mesh network recievers for direct administration to patents via aqueous compounds created from the original information of the entangled medicine at the central hub, this could also be customized for personalized medicine. 
 
-Another area that involves Entanglement Medicine is that of Resonant treatments of viruses and other treatments based on the Irene Cosic's Resonant Recognition Model, see Cosic below.
+Another area that involves Entanglement Medicine is that of Resonant treatments of viruses and other treatments based on Irene Cosic's Resonant Recognition Model, see Cosic below.
 
 
 
