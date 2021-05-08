@@ -8,7 +8,7 @@ In the proposed replication test we propose using the toroidal coil used by Pers
 
 Another area that involves Entanglement Medicine is that of Resonant treatments of viruses and other treatments based on the Irene Cosic's Resonant Recognition Model, see Cosic below.
 
-The work of N. Dzhumaeva and I. Khusainov (Н. Джумаева, И. Хусаинов) originally dating back to 2004 is a prime example of using the Ahronov-Bohm Effect and Casimir Effect to transmit vaccines using entanglement: 
+The work of <a href="https://github.com/autonomous019/entanglement-medicine/blob/main/dshumeava%20-%20The%20use%20of%20torsion%20fields%20in%20the%20treatment%20of%20certain%20viral%20diseases.pdf">N. Dzhumaeva and I. Khusainov</a> (Н. Джумаева, И. Хусаинов) originally dating back to 2004 is a prime example of using the Ahronov-Bohm Effect and Casimir Effect to transmit vaccines using entanglement: 
 <ul>
 Experiments on teleportation of properties described vaccines in the Teleport system, with the help of which
 biological objects (people and rabbits) was successful with the remote transmission of the properties of the vaccine: a vaccine for
@@ -132,7 +132,7 @@ Infoceutical Citations:
       
 
 • Dzhumaeva, N.,  Khusainov, I. (2018)  The use of torsion fields in the therapy of certain viral human diseases
-/ International Journal of Unconventional Science | Journal of Emerging Directions of Science \ Issue No. 19-20 \ Джумаева, H., Хусаинов, И. (2018)  Использование полей кручения в терапии некоторых вирусных заболеваний человека http://www.unconv-science.org/n19/djumaeva/ {english machine translation: https://github.com/autonomous019/entanglement-medicine/blob/main/dahumaeva%20torsion%20viral%20treatments.pdf ]
+/ International Journal of Unconventional Science | Journal of Emerging Directions of Science \ Issue No. 19-20 \ Джумаева, H., Хусаинов, И. (2018)  Использование полей кручения в терапии некоторых вирусных заболеваний человека http://www.unconv-science.org/n19/djumaeva/ {english machine translation: https://github.com/autonomous019/entanglement-medicine/blob/main/dshumeava%20-%20The%20use%20of%20torsion%20fields%20in%20the%20treatment%20of%20certain%20viral%20diseases.pdf ]
       
 • Etkin. V. A. (Эткин В.А.), Energy-Information Research in Israel (Энергоинформационные исследования в Израиле)
 , in (Russian) Materials of the international scientific conference. Khosta, Sochi, August 25-29, 2009 Conference "Torsion Fields and Information Interactions - 2009" Edited by Zhigalov V.A. pg. 176 http://www.vixri.com/d/Materialy%20konferencii%20-Torsionnye%20polja%20i%20informacionnye%20vzaimodejstvija%20-%202009.pdf Торсионные поля и информационные взаимодействия - 2009 Материалы международной научной конференции Электронная версия Хоста, г. Сочи 25-29 августа 2009
