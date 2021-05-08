@@ -119,17 +119,26 @@ A member of our association, Ph . t . n . Sh . Baskin proposed a method and a se
 намного более дешевый, чем упомянутые выше технические средства. Данные
 публикуются на сайте «www.visnsoft.com».
 
-Infoceutical Citations:
+<h3>Infoceutical Citations:</h3>
 
 
 • Benveniste, J., A¨issa, J., Jurgens, P., Hsueh, W. Specificity of the digitized molecular signal. FASEB Journal, 12:A412, 1998.
       
 • Benveniste et al. Method, system and device for producing signals from a substance biological and/or chemical activity. United States Patent # US 6, 541, 978 B1, 2003.
       
-• Thomas, Y., Schiff, M., Belkadi, L., Jurgens, P., Kahhak, L., Benveniste, J. Activation of human neutrophils by electronically transmitted phorbolmyristate acetate. Med Hypotheses, 54:33– 39, 2000.
-      
 • Benveniste, J., Jurgens, P., Hsueh, W., Aissa, J. Transatlantic transfer of digitized antigen signal by telephone link. J. Allergy clin. Immunol., 99(1):705, 1997.
       
+• Benveniste J., Benveniste L., Guillonnet D. Patent US 0,233, 296 A1. Method and device for avoiding alteration of a substance having biological activity, 2010.
+      
+• Benveniste J., Guillonnet D. Patent US #0,038,937 A1. Method and device for avoiding alteration of a substance having biological activity, 2004.
+
+• Del Giudice E, Preparata G, Vitiello G. Water as a free electric dipole laser. Phys Rev Lett 1988;61:1085–1088.
+
+• Del Giudice E, Preparata G. Coherent dynamics in water as a possible explanation of biological membranes formation. J Biol Phys 1995;20:105–116.
+
+• Del Giudice E, Galimberti A, Gamberane L, Preparata G. Electrodynamical coherence in water: A possible origin of the tetrahedral coordination. Mod Phys Lett B 1995;9: 953–961.
+
+• Del Giudice E, Preparata G, Fleischman M. QED coherence and electrolyte solutions. J Electroanalyt Chem 2000;482: 110–116.
 
 • Dzhumaeva, N.,  Khusainov, I. (2018)  The use of torsion fields in the therapy of certain viral human diseases
 / International Journal of Unconventional Science | Journal of Emerging Directions of Science \ Issue No. 19-20 \ Джумаева, H., Хусаинов, И. (2018)  Использование полей кручения в терапии некоторых вирусных заболеваний человека http://www.unconv-science.org/n19/djumaeva/ {english machine translation: https://github.com/autonomous019/entanglement-medicine/blob/main/dshumeava%20-%20The%20use%20of%20torsion%20fields%20in%20the%20treatment%20of%20certain%20viral%20diseases.pdf ]
@@ -138,15 +147,17 @@ Infoceutical Citations:
 , in (Russian) Materials of the international scientific conference. Khosta, Sochi, August 25-29, 2009 Conference "Torsion Fields and Information Interactions - 2009" Edited by Zhigalov V.A. pg. 176 http://www.vixri.com/d/Materialy%20konferencii%20-Torsionnye%20polja%20i%20informacionnye%20vzaimodejstvija%20-%202009.pdf Торсионные поля и информационные взаимодействия - 2009 Материалы международной научной конференции Электронная версия Хоста, г. Сочи 25-29 августа 2009
       
 • Foletti A., Ledda M., D’Emilia E., Grimaldi S., Lisi A. Experimental Finding on the Electromagnetic Transfer of Specific Molecular Signals Mediated Through the Information Aqueous System on Two Human Cellular Models. The Journal of Alternative and Complementary Medicine, 18(3):258–261, 2012.
-      
+
+• Giuliani L, Grimaldi S, Lisi A, et al. Action of combined magnetic fields on aqueous solution of glutamic acid: The further development of investigations. Biomagn Res Technol 2008;6:1.
+
+• Giuliani L, D’Emilia E, Lisi A, et al. The floating water bridge under strong electric potential. Neural Network World 2009;19:393–398.
+
+• Lisi A, Ledda M, De Carlo F, et al. Ion cyclotron resonance (ICR) transfers information to living systems: Effects on human epithelial cell differentiation. Electromagn Biol Med 2008;27:230–240.
+
 • Montagnier L., Aissa J., Ferris S., Montagnier J.-L., Lavallee C. Electromagnetic signals are produced by aqueous nanostructures derived from bacterial DNA sequences. Interdiscip. Sci., 1(2):81–90, 2009.
       
 • Montagnier L., Aissa J., Del Giudice E., Lavallee C., Tedeschi A., Vitiello G. DNA waves and water. J. Phys.: Conf. Ser. 306, 2011.
-      
-• Benveniste J., Benveniste L., Guillonnet D. Patent US 0,233, 296 A1. Method and device for avoiding alteration of a substance having biological activity, 2010.
-      
-• Benveniste J., Guillonnet D. Patent US #0,038,937 A1. Method and device for avoiding alteration of a substance having biological activity, 2004.
-      
+
 • Montagnier L., Lavallee C., Aissa J. Patent US 0,024,701 A1. General procedure for the identification of DNA sequences generating electromagnetic signals in biological fluids and tissues, 2012.
       
 • Surinov, B., Hachumova, K.,  Germanov, E., Fedorenko, A. Modification of biological activity of water on the basis of energy-information technologies: experiments with immunomodulating agents. International Research Journal, 4(11(3)):77–79, 2013.
@@ -159,20 +170,9 @@ Infoceutical Citations:
 copies of medicinal substances Инфоцевтики лекарства-невидимки in Журнал Формирующихся Направлений Науки номер 21-22(6), стр. 107-111, 2018 c Авторы, 2018 статья получена: 06.12.2018 статья принята к публикации: 08.12.2018  http://www.unconv-science.org/n21/surinov/ 
 [english machine translation: https://github.com/autonomous019/entanglement-medicine/blob/main/surinov%20infoceuticalhistory.pdf]
 
+• Thomas, Y., Schiff, M., Belkadi, L., Jurgens, P., Kahhak, L., Benveniste, J. Activation of human neutrophils by electronically transmitted phorbolmyristate acetate. Med Hypotheses, 54:33– 39, 2000.
+      
 
-• Del Giudice E, Preparata G, Vitiello G. Water as a free electric dipole laser. Phys Rev Lett 1988;61:1085–1088.
-
-• Del Giudice E, Preparata G. Coherent dynamics in water as a possible explanation of biological membranes formation. J Biol Phys 1995;20:105–116.
-
-• Del Giudice E, Galimberti A, Gamberane L, Preparata G. Electrodynamical coherence in water: A possible origin of the tetrahedral coordination. Mod Phys Lett B 1995;9: 953–961.
-
-• Del Giudice E, Preparata G, Fleischman M. QED coherence and electrolyte solutions. J Electroanalyt Chem 2000;482: 110–116.
-
-• Giuliani L, Grimaldi S, Lisi A, et al. Action of combined magnetic fields on aqueous solution of glutamic acid: The further development of investigations. Biomagn Res Technol 2008;6:1.
-
-• Giuliani L, D’Emilia E, Lisi A, et al. The floating water bridge under strong electric potential. Neural Network World 2009;19:393–398.
-
-• Lisi A, Ledda M, De Carlo F, et al. Ion cyclotron resonance (ICR) transfers information to living systems: Effects on human epithelial cell differentiation. Electromagn Biol Med 2008;27:230–240.
 
 <b>Serge Kernbach Direct Experiments</b>
       
