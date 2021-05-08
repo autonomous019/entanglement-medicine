@@ -10,7 +10,7 @@ Another area that involves Entanglement Medicine is that of Resonant treatments 
 
 The work of N. Dzhumaeva and I. Khusainov (Н. Джумаева, И. Хусаинов) originally dating back to 2004 is a prime example of using the Ahronov-Bohm Effect and Casimir Effect to transmit vaccines using entanglement: 
 
-  Experiments on teleportation of properties described vaccines in the Teleport system, with the help of which
+    Experiments on teleportation of properties described vaccines in the Teleport system, with the help of which
 biological objects (people and rabbits) was successful with the remote transmission of the properties of the vaccine: a vaccine for
 prevention of hepatitis A and B Twinrix (production SmithKlineBeecham Biologicals SA), where time is abrupt teleportation impact was 36
 hours. The Teleport system itself includes a block translations of spin spatial configurations, chip translator, chip inductor, which fixes.
