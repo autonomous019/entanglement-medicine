@@ -54,7 +54,7 @@ Further research confirming this scientific transfer of medicinals has been cond
 <ul>
 13. Transfer of medicinal properties of drugs to large distance
 
-By Mark Greenstein and Michael Schriebman a system , providing the ability to transmit via wireless and cable communication lines , for example , cellular communication and the Internet , information - wave properties of substances biological objects , including medicinal properties of medicines and medicinal plants , as well as information about the functional state of the body humans and animals . The system , based on the method of bio-resonance therapy ( Voll method ), can be used to create unparalleled in the world emergency telemedicine network .
+By Mark Greenstein and Michael Schriebman a system , providing the ability to transmit via wireless and cable communication lines , for example , cellular communication and the Internet , information - wave properties of substances biological objects , including medicinal properties of medicines and medicinal plants , as well as information about the functional state of the body humans and animals. The system, based on the method of bio-resonance therapy ( Voll method ), can be used to create unparalleled in the world <b>emergency telemedicine network</b>. [emphasis added] (Etkin, 2009) 
 </ul>
 <ul>
 13. Передача лечебных свойств лекарств на большие
@@ -66,7 +66,7 @@ By Mark Greenstein and Michael Schriebman a system , providing the ability to tr
 лекарственных растений, а также о сведений о функциональном состоянии организма
 человека и животных. Система, основанная на методе биорезонансной терапии
 (методе Фолля), может быть использована для создания не имеющей аналогов в мире
-телемедицинской сети неотложной помощи.
+телемедицинской сети неотложной помощи. (Etkin, 2009)
 
 </ul>
 
